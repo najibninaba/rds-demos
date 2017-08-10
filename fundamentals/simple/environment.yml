@@ -1,0 +1,11 @@
+name: rds-demo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - numpy
+
+
+
