@@ -3,7 +3,7 @@ Reproducible Data Science Demos
 
 # RDS Fundamentals Demo & Walkthrough
 
-There are 5 parts to making this simple data project reproducible. Each part is committed as a separate branch. Refer below for details:
+There are 5 parts to making this simple data project reproducible. Each part is committed as a separate branch and you can access the data project in the `fundamentals/simple` directory. Refer below for details:
 
 1. `git checkout part01` for the beginning status of the data project.
 2. `git checkout part02` is when we added some documentation on getting started and an environment file for loading up the dependencies.
