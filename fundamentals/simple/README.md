@@ -10,7 +10,7 @@ We recommend that you use Anaconda from Continuum for managing and running this 
 
 1. Use `conda` to create the environment and pull the dependencies required:
     ```
-    conda create -f environment.yml
+    conda env create -f environment.yml
     ```
 2. Activate the environment and run a Jupyter Notebook server:
     ```
