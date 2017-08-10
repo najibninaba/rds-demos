@@ -15,7 +15,7 @@ We recommend that you use Anaconda from Continuum for managing and running this 
 2. Activate the environment and get the raw data from the source:
     ```
     activate rds-demo
-    python scripts/get-data.py
+    python get-data.py
     ```
 
 3. Run a Jupyter Notebook server:
