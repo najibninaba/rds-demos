@@ -2,7 +2,7 @@
 
 IF %1==clean goto :clean
 
-IF %1==data goto :data
+IF %1==get-data goto :get-data
 
 IF %1==run goto :run
 
@@ -12,7 +12,7 @@ git reset --hard
 git clean -xdf
 exit /b
 
-:data
+:get-data
 python get-data.py
 exit /b
 
