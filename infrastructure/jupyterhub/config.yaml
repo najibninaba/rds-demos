@@ -1,0 +1,5 @@
+hub:
+  cookieSecret: "67f760f8a6178ea3b9f13a307dba6ed0f3cedbb1a2fd12d0ec3b715df314d914"
+proxy:
+  secretToken: "ea39167b79867493856d70dccbe6affcb92df4dacba1a950a37f8ebdb174f33f"
+
